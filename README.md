@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Snack
-![snake gif](https://github.com/PohTay/PohTay/blob/output/github-contribution-grid-snake.gif)
-
 
 
 
